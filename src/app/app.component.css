@@ -1,0 +1,22 @@
+.box {
+  text-align: center;
+  background-color: #eeeeee;
+}
+.centered {
+  display: inline-block;
+  margin: 0;
+}
+.chess-board {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.chess-board th {
+  padding: 0.5em;
+}
+.chess-board td {
+  border: 1px solid;
+  width: 5em;
+  height: 5em;
+  text-align: center;
+  vertical-align: middle;
+}
